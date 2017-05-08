@@ -10,7 +10,7 @@ namespace movingtotheweb
    public void Configure(IApplicationBuilder app)
    {
       app.Run(context => {
-        return context.Response.WriteAsync("Hello web! I am Toshi Tomoyose");
+        return context.Response.WriteAsync("Hello web! I am Toshi Tomoyose. How are you doing today ?");
 	
 	});
    }

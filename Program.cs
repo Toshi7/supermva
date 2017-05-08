@@ -14,12 +14,14 @@ namespace supermva
             name = Console.ReadLine();
             Console.WriteLine($"Hello {name}!");
 			*/
+			
 			var host = new WebHostBuilder()
 			.UseKestrel()
 			.UseStartup<Startup>()
 			.Build();
 			
 			host.Run();
+			
         }
     }
 }

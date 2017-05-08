@@ -14,3 +14,4 @@ C:\Users\User\Desktop\.Net Core\supermva\bin\Debug\netcoreapp1.1\supermva.pdb
 C:\Users\User\Desktop\.Net Core\supermva\obj\Debug\netcoreapp1.1\supermva.AssemblyInfo.cs
 C:\Users\User\Desktop\.Net Core\supermva\obj\Debug\netcoreapp1.1\supermva.dll
 C:\Users\User\Desktop\.Net Core\supermva\obj\Debug\netcoreapp1.1\supermva.pdb
+C:\Users\User\Desktop\.Net Core\supermva\obj\Debug\netcoreapp1.1\supermva.csprojResolveAssemblyReference.cache
